@@ -1,9 +1,8 @@
 # Amazon Clone Website 🛒
 
-A fully responsive **Amazon homepage clone**, designed with **HTML & CSS**, featuring a structured layout, a dynamic search bar, and a product showcase section.
+A  **Amazon homepage clone**, designed with **HTML & CSS**, featuring a structured layout, a dynamic search bar, and a product showcase section.
 
 ## 🚀 Features
-- **Responsive Design**: Adapts seamlessly to various screen sizes.
 - **Navigation Bar**: Includes a search bar, sign-in section, and cart icon.
 - **Product Grid**: Showcases multiple product categories.
 - **Footer Section**: Contains links similar to the real Amazon website.
