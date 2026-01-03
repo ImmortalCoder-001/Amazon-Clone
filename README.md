@@ -2,9 +2,6 @@
 
 A  **Amazon homepage clone**, designed with **HTML & CSS**, featuring a structured layout, a dynamic search bar, and a product showcase section.
 
-## 🌐 Live Demo
-
-**[View Live Project →](https://amazon-clone-j1uzefrbl-immortalcoder-001s-projects.vercel.app/)**
 
 ## 🚀 Features
 - **Navigation Bar**: Includes a search bar, sign-in section, and cart icon.
