@@ -14,14 +14,18 @@ A  **Amazon homepage clone**, designed with **HTML & CSS**, featuring a structur
 - **CSS3** - Styling and layout design
 - **FontAwesome** - Icons for UI elements
 
-## 📂 Project Structure
-📁 Amazon-Clone ├── 📄 index.html # Main HTML structure ├── 📄 style.css # CSS for styling ├── 📁 Images/ # Product and UI images
-
+```
+## 📂 Project Structure  
+📁 AmazonClone
+├── 📄 index.html # Main HTML structure
+├── 📄 style.css # CSS for styling
+├── 📁 Images/ # Product and UI images
+```
 
 ## 🛠️ Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/amazon-clone.git
+   git clone https://github.com/ImmortalCoder-001/AmazonClone.git
 2.Open index.html in your browser.
 
 📞 Contact
